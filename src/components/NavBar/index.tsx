@@ -32,7 +32,7 @@ const NavBar = () => {
         <ContainerFluid>
           <Row justifyContentCenter>
             <Content>
-              <Brand>TER</Brand>
+              <Brand>ThemeSwitcher</Brand>
               <NavItems>
                 <MenuItems isSideNavOpen={sideNavOpen} />
                 <MenuToggleButton onClick={handleDrawerToggle}>
